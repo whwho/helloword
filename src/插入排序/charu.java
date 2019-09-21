@@ -36,7 +36,7 @@ public class charu {
 		}
 	}
 	public static void main(String[] args) {
-		int[] arr = {1,32,2,12,33};
+		int[] arr = {1,32,3,12,33};
 		sort(arr);
 		System.out.print(Arrays.toString(arr));
 	}
